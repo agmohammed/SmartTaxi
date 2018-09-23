@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636256086183",
+    "firebase_url": "https://smarttaxiapp-b9c2a.firebaseio.com",
+    "project_id": "smarttaxiapp-b9c2a",
+    "storage_bucket": "smarttaxiapp-b9c2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636256086183:android:81d6d4f50b4567c6",
+        "android_client_info": {
+          "package_name": "com.agmohammed.smarttaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636256086183-vnj1i4dv2anls5ub4qi9tvi82r0salci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agmohammed.smarttaxi",
+            "certificate_hash": "056e17b3bd1ff813d1c2b7a0d96461a6d8413e11"
+          }
+        },
+        {
+          "client_id": "636256086183-t3kv74t2uhhvofvb6dqidvb580s87hj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLixy1-V2-9eydEiPRumyvS1Z7YS0Dh8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636256086183-t3kv74t2uhhvofvb6dqidvb580s87hj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
